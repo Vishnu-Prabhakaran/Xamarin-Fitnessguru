@@ -1,14 +1,9 @@
 ﻿<Properties StartupConfiguration="{FF6FE222-BA42-4ECF-95EF-A525908EECC4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/Profile.xaml">
     <Files>
-      <File FileName="FitnessGuru/MainPage.xaml" Line="9" Column="13" />
-      <File FileName="FitnessGuru/Profile.xaml.cs" Line="1" Column="1" />
-      <File FileName="FitnessGuru/Profile.xaml" Line="7" Column="27" />
-      <File FileName="FitnessGuru/MainPage.xaml.cs" Line="13" Column="10" />
-      <File FileName="FitnessGuru/Progress.xaml.cs" Line="1" Column="1" />
-      <File FileName="FitnessGuru/Progress.xaml" Line="2" Column="144" />
-      <File FileName="FitnessGuru/Workout.xaml" Line="6" Column="41" />
-      <File FileName="FitnessGuru/Home.xaml" Line="2" Column="140" />
+      <File FileName="FitnessGuru/Home.xaml" Line="8" Column="5" />
+      <File FileName="FitnessGuru/Home.xaml.cs" Line="1" Column="1" />
+      <File FileName="FitnessGuru/Profile.xaml" Line="13" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.FitnessGuru.iOS FirstBuild="True" />
@@ -17,6 +12,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.FitnessGuru.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.ItemProperties.FitnessGuru.Android PreferredExecutionTarget="Android.Pixel_XL_API_23" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MultiItemStartupConfigurations />
 </Properties>

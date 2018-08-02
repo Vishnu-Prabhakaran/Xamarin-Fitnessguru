@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.Profile"
-Title="Profile" Icon="account.png">
-        <ContentPage.Content>
-            <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-                <Label Text="Profile" />
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.Profile" Title="Profile" Icon="account.png">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Image HeightRequest="100" WidthRequest="100" Source="https://avatarfiles.alphacoders.com/654/65439.jpg">
+            </Image>
+            <Label Text="Vishnu Prabhakaran Nair" FontSize="Medium" TextColor="Green" />
+            <Label Text="Workout Routine" FontSize="Large" Margin="10" />
+            <!--BoxView VerticalOptions="FillAndExpand" Color="Silver"></BoxView>  -->
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+                <Label Text="Monday" Margin="5" />
+                <Label Text="Tuesday " Margin="5" />
+                <Label Text="Wednesday" Margin="5" />
+                <Label Text="Thursday" Margin="5" />
+                <Label Text="Friday" Margin="5" />
             </StackLayout>
-        </ContentPage.Content>
- </ContentPage>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

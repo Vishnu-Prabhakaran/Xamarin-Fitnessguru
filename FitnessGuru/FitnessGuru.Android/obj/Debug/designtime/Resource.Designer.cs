@@ -59,10 +59,13 @@ namespace FitnessGuru.Droid
 			public const int home = 2130771971;
 			
 			// aapt resource value: 0x7F010004
-			public const int library = 2130771972;
+			public const int landing = 2130771972;
 			
 			// aapt resource value: 0x7F010005
-			public const int workout = 2130771973;
+			public const int library = 2130771973;
+			
+			// aapt resource value: 0x7F010006
+			public const int workout = 2130771974;
 			
 			static Drawable()
 			{

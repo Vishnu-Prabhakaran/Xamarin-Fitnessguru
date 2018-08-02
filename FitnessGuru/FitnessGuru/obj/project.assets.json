@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/FitnessGuru.csproj",
+      "projectUniqueName": "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/FitnessGuru.csproj",
       "projectName": "FitnessGuru",
-      "projectPath": "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/FitnessGuru.csproj",
+      "projectPath": "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/FitnessGuru.csproj",
       "packagesPath": "/Users/wish/.nuget/packages/",
-      "outputPath": "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/obj",
+      "outputPath": "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

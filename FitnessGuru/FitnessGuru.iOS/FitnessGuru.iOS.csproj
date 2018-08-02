@@ -161,5 +161,6 @@
     <BundleResource Include="Resources\workout.png" />
     <BundleResource Include="Resources\home.png" />
     <BundleResource Include="Resources\library.png" />
+    <BundleResource Include="Resources\landing.jpg" />
   </ItemGroup>
 </Project>

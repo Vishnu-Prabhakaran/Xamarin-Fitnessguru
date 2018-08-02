@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru.iOS/FitnessGuru.iOS.csproj",
+      "projectUniqueName": "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/FitnessGuru.iOS.csproj",
       "projectName": "FitnessGuru.iOS",
-      "projectPath": "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru.iOS/FitnessGuru.iOS.csproj",
+      "projectPath": "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/FitnessGuru.iOS.csproj",
       "packagesPath": "/Users/wish/.nuget/packages/",
-      "outputPath": "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru.iOS/obj",
+      "outputPath": "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wish/.config/NuGet/NuGet.Config"
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/FitnessGuru.csproj": {
-              "projectPath": "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/FitnessGuru.csproj"
+            "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/FitnessGuru.csproj": {
+              "projectPath": "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/FitnessGuru.csproj"
             }
           }
         }

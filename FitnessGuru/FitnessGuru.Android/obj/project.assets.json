@@ -765,11 +765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru.Android/FitnessGuru.Android.csproj",
+      "projectUniqueName": "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/FitnessGuru.Android.csproj",
       "projectName": "FitnessGuru.Android",
-      "projectPath": "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru.Android/FitnessGuru.Android.csproj",
+      "projectPath": "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/FitnessGuru.Android.csproj",
       "packagesPath": "/Users/wish/.nuget/packages/",
-      "outputPath": "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru.Android/obj",
+      "outputPath": "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wish/.config/NuGet/NuGet.Config"
@@ -783,8 +783,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/FitnessGuru.csproj": {
-              "projectPath": "/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/FitnessGuru.csproj"
+            "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/FitnessGuru.csproj": {
+              "projectPath": "/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/FitnessGuru.csproj"
             }
           }
         }
