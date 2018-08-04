@@ -30,3 +30,4 @@
 /Users/wish/.nuget/packages/xamarin.forms/3.0.0.482510/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/bin/Debug/netstandard2.0/FitnessGuru.dll
 /Users/wish/.nuget/packages/xamarin.forms/3.0.0.482510/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
+/Users/wish/.nuget/packages/newtonsoft.json/11.0.2/lib/netstandard2.0/Newtonsoft.Json.dll

@@ -1,5 +1,8 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/bin/iPhoneSimulator/Debug/FitnessGuru.iOS.exe
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/bin/iPhoneSimulator/Debug/FitnessGuru.iOS.pdb
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
@@ -52,6 +55,7 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/workout.png
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/home.png
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/library.png
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/menu.png
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/obj/iPhoneSimulator/Debug/FitnessGuru.iOS.csprojResolveAssemblyReference.cache
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.iOS/obj/iPhoneSimulator/Debug/FitnessGuru.iOS.csproj.CoreCompileInputs.cache

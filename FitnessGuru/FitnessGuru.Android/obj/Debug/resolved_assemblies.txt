@@ -4,8 +4,12 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/Java.Interop.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/Mono.Android.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/mscorlib.dll
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/Newtonsoft.Json.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Core.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.dll
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Net.Http.Extensions.dll
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Net.Http.Primitives.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Xml.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Xml.Linq.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/Xamarin.Android.Arch.Core.Common.dll
@@ -40,7 +44,6 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.IO.Compression.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Net.Http.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Runtime.Serialization.Xml.dll
@@ -64,3 +67,4 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Runtime.Extensions.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Reflection.Extensions.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/Mono.Security.dll
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Net.Primitives.dll

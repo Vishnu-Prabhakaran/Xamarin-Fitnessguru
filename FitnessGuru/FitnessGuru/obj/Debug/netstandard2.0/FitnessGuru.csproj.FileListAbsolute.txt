@@ -1,9 +1,8 @@
-/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.csproj.CoreCompileInputs.cache
-/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.AssemblyInfoInputs.cache
-/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.AssemblyInfo.cs
-/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/bin/Debug/netstandard2.0/FitnessGuru.deps.json
-/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/bin/Debug/netstandard2.0/FitnessGuru.dll
-/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/bin/Debug/netstandard2.0/FitnessGuru.pdb
-/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.dll
-/Users/wish/Desktop/fitnessguru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.pdb
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.csprojResolveAssemblyReference.cache
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.csproj.CoreCompileInputs.cache
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.AssemblyInfoInputs.cache
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.AssemblyInfo.cs
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.dll
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.pdb
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/bin/Debug/netstandard2.0/FitnessGuru.deps.json
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/bin/Debug/netstandard2.0/FitnessGuru.dll
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/bin/Debug/netstandard2.0/FitnessGuru.pdb
