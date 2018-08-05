@@ -3,8 +3,15 @@
              x:Class="FitnessGuru.MenuPage" Title="Menu" Icon="menu.png">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-            <Label Text="Today's workout goals" FontSize="Large" />
-
+            <Label Text="Menu" FontSize="30" Margin="10" TextColor="Green" HorizontalOptions="Center" VerticalOptions="Center"/>
+            <Button Text="LOGIN" Clicked="BtnLogin"/>
+            <Button Text="RESET PASSWORD" Clicked="BtnReset" />
+            <Button Text="WORKOUT LEVEL" Clicked="BtnLevel" />
+            <Button Text="EATING HABITS" Clicked="BtnEHabits"/>
+            <Button Text="SET WORKOUT DAYS" Clicked="BtnWDays"/>
+            <Button Text="SET WORKOUT ROUTINE"/>
+            <Button Text="SCORE"/>
+            <Button Text="LOG OUT"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

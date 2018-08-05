@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.LevelPage">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="Select your workout level" FontSize="30" HorizontalOptions="Center" VerticalOptions="Center" />
+            <Picker x:Name="picker" Title="Select a your level">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Level1 - Beginners</x:String>
+                        <x:String>Level2 - Intermediate </x:String>
+                        <x:String>Level3 - Advanced</x:String>
+                        <x:String>Level4 - Master</x:String>
+                        <x:String>Level5 - Army</x:String>
+                        <x:String>Level6 - Bring it on</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

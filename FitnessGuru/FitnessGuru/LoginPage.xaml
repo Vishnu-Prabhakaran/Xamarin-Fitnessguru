@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.LoginPage">
+    <ContentPage.Content>
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+         <Label Text="Login" FontSize="30" HorizontalOptions="Center" VerticalOptions="Center"/>
+
+        <Entry Margin="10" Text="Username" HorizontalOptions="FillAndExpand"/>
+            <Entry Margin="10" Text="password" HorizontalOptions="FillAndExpand"/>
+            <Button Text="LOGIN"  Font="20" Margin="10"/>
+            <Button Margin="10" Text="Reset Password" HorizontalOptions="FillAndExpand" Clicked="BtnReset"/>
+            </StackLayout>
+           
+    </ContentPage.Content>
+</ContentPage>

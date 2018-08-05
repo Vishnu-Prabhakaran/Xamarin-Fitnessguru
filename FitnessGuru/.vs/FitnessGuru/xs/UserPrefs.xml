@@ -1,17 +1,31 @@
-﻿<Properties StartupConfiguration="{FF6FE222-BA42-4ECF-95EF-A525908EECC4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/obj/Debug/netstandard2.0/Workout.xaml.g.cs">
+﻿<Properties StartupConfiguration="{FF6FE222-BA42-4ECF-95EF-A525908EECC4}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/App.xaml.cs">
     <Files>
-      <File FileName="FitnessGuru/Workout.xaml" Line="28" Column="69" />
+      <File FileName="FitnessGuru/Workout.xaml" Line="37" Column="43" />
+      <File FileName="FitnessGuru/WDaysPage.xaml" Line="5" Column="1" />
       <File FileName="FitnessGuru/WList.cs" Line="20" Column="11" />
-      <File FileName="FitnessGuru/Workout.xaml.cs" Line="37" Column="13" />
-      <File FileName="FitnessGuru/obj/Debug/netstandard2.0/Workout.xaml.g.cs" Line="28" Column="2" />
+      <File FileName="FitnessGuru/MenuPage.xaml" Line="14" Column="37" />
+      <File FileName="FitnessGuru/App.xaml.cs" Line="17" Column="10" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FitnessGuru" expanded="True">
+            <Node name="FitnessGuru" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.FitnessGuru.Android PreferredExecutionTarget="Android.Pixel_XL_API_23" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.ItemProperties.FitnessGuru.Android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Pixel_XL_API_23" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MultiItemStartupConfigurations />
 </Properties>

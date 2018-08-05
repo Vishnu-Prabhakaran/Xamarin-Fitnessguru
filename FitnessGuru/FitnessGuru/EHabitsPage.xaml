@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.EHabitsPage">
+    <ContentPage.Content>
+
+               <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="Select your eating habits" FontSize="30" HorizontalOptions="Center" VerticalOptions="Center" />
+            <Picker x:Name="picker" Title="Please choose a choice of your daily intake">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Vegitarian</x:String>
+                        <x:String>non Vegitarian </x:String>
+                        <x:String>Vegan</x:String>
+                        <x:String>Eggitarian</x:String>
+                        <x:String>Protien And Suppliments</x:String>
+                        <x:String>No Restrictions</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
