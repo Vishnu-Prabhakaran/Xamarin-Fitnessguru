@@ -1,11 +1,11 @@
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/FitnessGuru.Android.csprojResolveAssemblyReference.cache
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/FitnessGuru.Android.csproj.CoreCompileInputs.cache
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/FitnessGuru.Android.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/FitnessGuru.Android.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/com.wish.Vishnu.FitnessGuru.apk
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/com.wish.Vishnu.FitnessGuru-Signed.apk
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/FitnessGuru.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/FitnessGuru.pdb
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/FitnessGuru.Android.csprojResolveAssemblyReference.cache
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/FitnessGuru.Android.csproj.CoreCompileInputs.cache
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/FitnessGuru.Android.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/FitnessGuru.Android.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/bin/com.wish.Vishnu.FitnessGuru.apk
@@ -31,6 +31,7 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/res/drawable/library.png
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/res/drawable/landing.jpg
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/res/drawable/menu.png
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/res/xml/file_paths.xml
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/R.cs.flag
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/R.txt
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/uploadflags.txt

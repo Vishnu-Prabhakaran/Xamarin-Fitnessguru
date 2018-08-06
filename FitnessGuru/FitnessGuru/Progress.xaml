@@ -3,7 +3,27 @@
 Title="Progress" Icon="library.png">
         <ContentPage.Content>
             <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-                <Label Text="Progress" />
+                <Label Text="Progress" Font="30"/>
+            <Button Text="Take Photo"  x:Name="photoBtn" Pressed="photoBtn_Pressed" />
+            <ListView x:Name="listPhotos">
+            <ListView.ItemTemplate>
+
+
+                    <DataTemplate>
+                        <ViewCell>
+                            <Image Source="{Binding Source}"
+                                   Aspect="AspectFit"
+                                   Margin="1"/>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+                
+            </ListView>
+
+
+                
+            
             </StackLayout>
         </ContentPage.Content>
  </ContentPage>
