@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "bcb1bc97a4a98eed64dc1115046594956ba6f9dc"
+    "signature": "c896a9c7d8eace79a03acf1e46616b9138061545"
   },
   "compilationOptions": {},
   "targets": {
@@ -11,8 +11,9 @@
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "11.0.2",
+          "Plugin.Permissions": "3.0.0.12",
           "Xam.Plugin.Media": "4.0.1.5",
-          "Xamarin.Forms": "3.0.0.482510"
+          "Xamarin.Forms": "3.1.0.697729"
         },
         "runtime": {
           "FitnessGuru.dll": {}
@@ -51,7 +52,7 @@
           }
         }
       },
-      "Xamarin.Forms/3.0.0.482510": {
+      "Xamarin.Forms/3.1.0.697729": {
         "runtime": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
             "assemblyVersion": "2.0.0.0",
@@ -110,12 +111,12 @@
       "path": "xam.plugin.media/4.0.1.5",
       "hashPath": "xam.plugin.media.4.0.1.5.nupkg.sha512"
     },
-    "Xamarin.Forms/3.0.0.482510": {
+    "Xamarin.Forms/3.1.0.697729": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-kq209d8qVvulrY3o+nGirENZ3kaZpEN7VWRErWcW1M+ahtDgm4BUXQJ5s9hnp1SAGxQMTMhDAVI3uk5g9NV7hA==",
-      "path": "xamarin.forms/3.0.0.482510",
-      "hashPath": "xamarin.forms.3.0.0.482510.nupkg.sha512"
+      "sha512": "sha512-YlFOM9u8onIRxJwYJ3l+O0wFKqzzrDjDrgnoBr1rct+eaQKU77vFydxvTP+WxYlYzR14hYvyLNC65L84+6ke6w==",
+      "path": "xamarin.forms/3.1.0.697729",
+      "hashPath": "xamarin.forms.3.1.0.697729.nupkg.sha512"
     }
   }
 }

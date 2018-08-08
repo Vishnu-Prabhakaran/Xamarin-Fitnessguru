@@ -1,11 +1,12 @@
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/FitnessGuru.Android.csprojResolveAssemblyReference.cache
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/FitnessGuru.Android.csproj.CoreCompileInputs.cache
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/FitnessGuru.Android.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/FitnessGuru.Android.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/com.wish.Vishnu.FitnessGuru.apk
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/com.wish.Vishnu.FitnessGuru-Signed.apk
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/FitnessGuru.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/FitnessGuru.pdb
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/FitnessGuru.Android.csprojResolveAssemblyReference.cache
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/FitnessGuru.Android.csproj.CoreCompileInputs.cache
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/XamlC.stamp
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/FitnessGuru.Android.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/FitnessGuru.Android.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/bin/com.wish.Vishnu.FitnessGuru.apk

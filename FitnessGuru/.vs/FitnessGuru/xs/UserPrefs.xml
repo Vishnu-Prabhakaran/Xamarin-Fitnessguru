@@ -1,30 +1,11 @@
 ﻿<Properties StartupConfiguration="{FF6FE222-BA42-4ECF-95EF-A525908EECC4}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/Progress.xaml">
     <Files>
-      <File FileName="FitnessGuru/Progress.xaml.cs" Line="18" Column="9" />
-      <File FileName="FitnessGuru/Progress.xaml" Line="14" Column="13" />
-      <File FileName="Source Not Available" />
-      <File FileName="FitnessGuru.Android/MainActivity.cs" Line="11" Column="30" />
-      <File FileName="../../../.nuget/packages/xam.plugin.media/4.0.1.5/readme.txt" Line="13" Column="1" />
-      <File FileName="FitnessGuru/MainPage.xaml.cs" Line="19" Column="22" />
+      <File FileName="FitnessGuru/MainPage.xaml" Line="5" Column="30" />
+      <File FileName="FitnessGuru/MainPage.xaml.cs" Line="19" Column="55" />
+      <File FileName="FitnessGuru/App.xaml.cs" Line="16" Column="13" />
+      <File FileName="FitnessGuru/Progress.xaml" Line="7" Column="76" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="FitnessGuru" expanded="True">
-            <Node name="FitnessGuru" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
-              <Node name="Progress.xaml" expanded="True" />
-            </Node>
-            <Node name="FitnessGuru.Android" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -35,13 +35,13 @@
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
 	<key>CFBundleExecutable</key>
-	<string>&lt;key&gt;NSCameraUsageDescription&lt;/key&gt;
-&lt;string&gt;This app needs access to the camera to take photos.&lt;/string&gt;
-&lt;key&gt;NSPhotoLibraryUsageDescription&lt;/key&gt;
-&lt;string&gt;This app needs access to photos.&lt;/string&gt;
-&lt;key&gt;NSMicrophoneUsageDescription&lt;/key&gt;
-&lt;string&gt;This app needs access to microphone.&lt;/string&gt;
-&lt;key&gt;NSPhotoLibraryAddUsageDescription&lt;/key&gt;
-&lt;string&gt;This app needs access to the photo gallery.&lt;/string&gt;</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs access to the camera to take photos.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app needs access to photos.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app needs access to microphone.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This app needs access to the photo gallery.</string>
 </dict>
 </plist>

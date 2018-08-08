@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.Progress"
-Title="Progress" Icon="library.png">
-        <ContentPage.Content>
-            <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-                <Label Text="Progress" Font="30"/>
-            <Button Text="Take Photo"  x:Name="photoBtn" Pressed="photoBtn_Pressed" />
-            <ListView x:Name="listPhotos">
-            <ListView.ItemTemplate>
-
-
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.Progress" Title="Progress" Icon="library.png" >
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="Progress" Font="30" HorizontalTextAlignment="Center" />
+            <Button Text="Take Photo" x:Name="photoBtn" Pressed="photoBtn_Pressed"  />
+            <ListView x:Name="listPhotos" HasUnevenRows="false" RowHeight="300" >
+                <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
-                            <Image Source="{Binding Source}"
-                                   Aspect="AspectFit"
-                                   Margin="1"/>
+                            <Image Source="{Binding Source}" Aspect="AspectFit" Margin="5"   />
+
                         </ViewCell>
-                    </DataTemplate>
+                        </DataTemplate>
                 </ListView.ItemTemplate>
-
-                
             </ListView>
-
-
-                
-            
-            </StackLayout>
-        </ContentPage.Content>
- </ContentPage>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

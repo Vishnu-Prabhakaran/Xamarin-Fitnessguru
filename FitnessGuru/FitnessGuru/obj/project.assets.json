@@ -56,7 +56,7 @@
           "lib/netstandard2.0/Plugin.Media.dll": {}
         }
       },
-      "Xamarin.Forms/3.0.0.482510": {
+      "Xamarin.Forms/3.1.0.697729": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {},
@@ -288,11 +288,12 @@
         "xam.plugin.media.nuspec"
       ]
     },
-    "Xamarin.Forms/3.0.0.482510": {
-      "sha512": "kq209d8qVvulrY3o+nGirENZ3kaZpEN7VWRErWcW1M+ahtDgm4BUXQJ5s9hnp1SAGxQMTMhDAVI3uk5g9NV7hA==",
+    "Xamarin.Forms/3.1.0.697729": {
+      "sha512": "YlFOM9u8onIRxJwYJ3l+O0wFKqzzrDjDrgnoBr1rct+eaQKU77vFydxvTP+WxYlYzR14hYvyLNC65L84+6ke6w==",
       "type": "package",
-      "path": "xamarin.forms/3.0.0.482510",
+      "path": "xamarin.forms/3.1.0.697729",
       "files": [
+        ".signature.p7s",
         "build/netstandard1.0/Mono.Cecil.Mdb.dll",
         "build/netstandard1.0/Mono.Cecil.Pdb.dll",
         "build/netstandard1.0/Mono.Cecil.Rocks.dll",
@@ -320,13 +321,11 @@
         "lib/MonoAndroid10/Design/Xamarin.Forms.Core.Design.dll",
         "lib/MonoAndroid10/Design/Xamarin.Forms.Xaml.Design.dll",
         "lib/MonoAndroid10/FormsViewGroup.dll",
-        "lib/MonoAndroid10/FormsViewGroup.dll.mdb",
         "lib/MonoAndroid10/FormsViewGroup.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Core.dll",
         "lib/MonoAndroid10/Xamarin.Forms.Core.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Core.xml",
         "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll",
-        "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll.mdb",
         "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.pdb",
         "lib/MonoAndroid10/Xamarin.Forms.Platform.dll",
         "lib/MonoAndroid10/Xamarin.Forms.Xaml.dll",
@@ -428,12 +427,13 @@
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/PageControlStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Properties/Xamarin.Forms.Platform.UAP.rd.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Resources.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/SliderStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/TabbedPageStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Xamarin.Forms.Platform.UAP.xr.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.3.0.0.482510.nupkg.sha512",
+        "xamarin.forms.3.1.0.697729.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     }
@@ -442,8 +442,9 @@
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
       "Newtonsoft.Json >= 11.0.2",
+      "Plugin.Permissions >= 3.0.0.12",
       "Xam.Plugin.Media >= 4.0.1.5",
-      "Xamarin.Forms >= 3.0.0.482510"
+      "Xamarin.Forms >= 3.1.0.697729"
     ]
   },
   "packageFolders": {
@@ -491,10 +492,6 @@
             "version": "2.0.3",
             "autoReferenced": true
           },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "3.0.0.482510"
-          },
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "11.0.2"
@@ -502,6 +499,14 @@
           "Xam.Plugin.Media": {
             "target": "Package",
             "version": "4.0.1.5"
+          },
+          "Plugin.Permissions": {
+            "target": "Package",
+            "version": "3.0.0.12"
+          },
+          "Xamarin.Forms": {
+            "target": "Package",
+            "version": "3.1.0.697729"
           }
         },
         "imports": [

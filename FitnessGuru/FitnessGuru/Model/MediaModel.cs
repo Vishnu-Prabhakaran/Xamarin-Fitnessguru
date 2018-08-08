@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Xamarin.Forms;
 
 namespace FitnessGuru.Model
@@ -12,6 +13,5 @@ namespace FitnessGuru.Model
         public FileImageSource Source => source ?? (source = new FileImageSource() { File = Path });
 
     }
-    
 }
 
