@@ -28,7 +28,7 @@
                                         <ColumnDefinition Width="300" />
                                         <ColumnDefinition Width="*" />
                                     </Grid.ColumnDefinitions>
-                                    <Switch Toggled="Handle_Toggled" HorizontalOptions="End" VerticalOptions="Center" Grid.Row="0" Grid.Column="1" />
+                                    <Switch Toggled="Handle_Toggled" HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="0" Grid.Column="1" />
                                     <Label Text="{Binding name}" Font="20" Margin="2" Grid.Row="0" Grid.Column="0" TextColor="Blue" />
                                     <!--                                 <Label Text="{Binding id}" Margin="2" Grid.Row="1" Grid.Column="0" />-->
                                     <Label Text="{Binding excercise}" Margin="2" Grid.Row="1" Grid.Column="0" />

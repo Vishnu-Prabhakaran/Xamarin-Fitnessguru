@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.Profile" Title="Profile" Icon="account.png">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.Profile" Title="Profile" Icon="account.png" BackgroundColor="#333333">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-            <Image HeightRequest="100" WidthRequest="100" Source="https://avatarfiles.alphacoders.com/654/65439.jpg">
-            </Image>
-            <Label Text="Vishnu Prabhakaran Nair" FontSize="Medium" TextColor="Green" />
-            <Label Text="Workout Routine" FontSize="Large" Margin="10" />
-            <!--BoxView VerticalOptions="FillAndExpand" Color="Silver"></BoxView>  -->
-            <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
-                <Label Text="Monday" Margin="5" />
-                <Label Text="Tuesday " Margin="5" />
-                <Label Text="Wednesday" Margin="5" />
-                <Label Text="Thursday" Margin="5" />
-                <Label Text="Friday" Margin="5" />
-            </StackLayout>
+
+             <Image Source="https://avatarfiles.alphacoders.com/654/65439.jpg" Aspect="AspectFill" HeightRequest="200"  VerticalOptions="Center" />
+                <Label Text="Vishnu Prabhakaran:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"  Font="20" TextColor="Green" />
+                <Label Text="Your Workout routine" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"   TextColor="White" Font="15" />
+                
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+       
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+               <Label Text="Monday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="0" TextColor="Yellow" />
+                <Label Text="Tuesday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="1" Grid.Column="0" TextColor="Yellow" />
+                <Label Text="Wednesday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="2" Grid.Column="0" TextColor="Yellow" />
+                <Label Text="Thursday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="3" Grid.Column="0" TextColor="Yellow" />
+                <Label Text="Friday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="4" Grid.Column="0" TextColor="Yellow" />
+                <Label Text="Saturday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="5" Grid.Column="0" TextColor="Yellow" />
+                <Label Text="Sunday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="6" Grid.Column="0" TextColor="Yellow" />
+            </Grid>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
