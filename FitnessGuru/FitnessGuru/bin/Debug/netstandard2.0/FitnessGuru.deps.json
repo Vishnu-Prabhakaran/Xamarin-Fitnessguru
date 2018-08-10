@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "c896a9c7d8eace79a03acf1e46616b9138061545"
+    "signature": "7b03f5e3f230c318d521439a3ce06ed9f45296a5"
   },
   "compilationOptions": {},
   "targets": {
@@ -13,7 +13,8 @@
           "Newtonsoft.Json": "11.0.2",
           "Plugin.Permissions": "3.0.0.12",
           "Xam.Plugin.Media": "4.0.1.5",
-          "Xamarin.Forms": "3.1.0.697729"
+          "Xamarin.Forms": "3.1.0.697729",
+          "sqlite-net-sqlcipher": "1.5.176-beta"
         },
         "runtime": {
           "FitnessGuru.dll": {}
@@ -36,6 +37,45 @@
       "Plugin.Permissions/3.0.0.12": {
         "runtime": {
           "lib/netstandard2.0/Plugin.Permissions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "sqlite-net-sqlcipher/1.5.176-beta": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "SQLitePCLRaw.bundle_sqlcipher": "1.1.8"
+        },
+        "runtime": {
+          "lib/netstandard1.1/SQLite-net.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SQLitePCLRaw.bundle_sqlcipher/1.1.8": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "SQLitePCLRaw.core": "1.1.8"
+        },
+        "runtime": {
+          "lib/netstandard1.1/SQLitePCLRaw.batteries_sqlcipher.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard1.1/SQLitePCLRaw.batteries_v2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SQLitePCLRaw.core/1.1.8": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.1/SQLitePCLRaw.core.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -103,6 +143,27 @@
       "sha512": "sha512-VrYqI/ufk3bH6gTP1JJlLByjhS0CHu3riKmdozhX9/qXA9hlvLolmcqKJdyAqpzmrVC74m3ZtirUBIrBxvT1Lw==",
       "path": "plugin.permissions/3.0.0.12",
       "hashPath": "plugin.permissions.3.0.0.12.nupkg.sha512"
+    },
+    "sqlite-net-sqlcipher/1.5.176-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eePlIY0J4uS4BMAUORkzTqeRATXK7rkGhEukrtLb+/SXmSrV9JLI+yzxjlf8nirOVbie2HxEAWWs8bPQ37a9bw==",
+      "path": "sqlite-net-sqlcipher/1.5.176-beta",
+      "hashPath": "sqlite-net-sqlcipher.1.5.176-beta.nupkg.sha512"
+    },
+    "SQLitePCLRaw.bundle_sqlcipher/1.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9NQc0zf4OofPzCSLYI8jrS+c74HID/IKoSNvn3zonrmoJJgyUdokG/fNZWtzebhY4h1MlCcfFYgQBCAPEK2uLA==",
+      "path": "sqlitepclraw.bundle_sqlcipher/1.1.8",
+      "hashPath": "sqlitepclraw.bundle_sqlcipher.1.1.8.nupkg.sha512"
+    },
+    "SQLitePCLRaw.core/1.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JTvlAlVHeMW9QaTcu+3iLB9ZEGtceb+uM1MOlfyAnEocShSacHEzwPNsden7MlWb0QjPX3Y3sDMW0ymGhH8Jtg==",
+      "path": "sqlitepclraw.core/1.1.8",
+      "hashPath": "sqlitepclraw.core.1.1.8.nupkg.sha512"
     },
     "Xam.Plugin.Media/4.0.1.5": {
       "type": "package",

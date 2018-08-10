@@ -12,8 +12,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Model\" />
+    <Folder Include="Data\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="MainApplication.cs" />
+    <Compile Remove="Data\ISQLite.cs" />
+    <Compile Remove="Data\RestService.cs" />
   </ItemGroup>
 </Project>

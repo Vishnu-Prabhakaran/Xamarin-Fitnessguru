@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.LoginPage">
     <ContentPage.Content>
-    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-         <Label Text="Login" FontSize="30" HorizontalOptions="Center" VerticalOptions="Center"/>
-
-        <Entry Margin="10" Text="Username" HorizontalOptions="FillAndExpand"/>
-            <Entry Margin="10" Text="password" HorizontalOptions="FillAndExpand"/>
-            <Button Text="LOGIN"  Font="20" Margin="10"/>
-            <Button Margin="10" Text="Reset Password" HorizontalOptions="FillAndExpand" Clicked="BtnReset"/>
+        <StackLayout x:Name="Masterlayout">
+            
+            <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+                <Image x:Name="Login_Icon" Source="home.png" Margin="0,80,0,0"/>
             </StackLayout>
-           
+        
+    <StackLayout  VerticalOptions="StartAndExpand">
+                <ActivityIndicator x:Name="ActivitySpinner" Color="Silver" IsRunning="false" />
+            <Label x:Name="Lbl_Login" Text="Login" FontSize="30" HorizontalOptions="Center" VerticalOptions="Center"/>
+
+            <Entry x:Name="Entry_Username" Margin="10" Placeholder="Username" HorizontalOptions="FillAndExpand" />
+            <Entry x:Name="Entry_Password" Margin="10" Placeholder="Password" HorizontalOptions="FillAndExpand"/>
+            <Button x:Name="Btn_Login" Text="LOGIN"  Font="20" Margin="10" Clicked="LoginClickedAsync"/>
+            <Button x:Name="Btn_reset" Margin="10" Text="Reset Password" HorizontalOptions="FillAndExpand" Clicked="BtnReset"/>
+            </StackLayout>
+           </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -37,11 +37,13 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/R.txt
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/uploadflags.txt
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/Mono.Android.pdb
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/SQLite-net.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/linksrc/FitnessGuru.Android.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/linksrc/FitnessGuru.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/linksrc/SQLite-net.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/linksrc/Xamarin.Forms.Xaml.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/FormsViewGroup.dll.mdb

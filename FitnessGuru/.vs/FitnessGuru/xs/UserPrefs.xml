@@ -1,5 +1,11 @@
 ﻿<Properties StartupConfiguration="{FF6FE222-BA42-4ECF-95EF-A525908EECC4}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/LoginPage.xaml">
+    <Files>
+      <File FileName="FitnessGuru/LoginPage.xaml.cs" Line="46" Column="50" />
+      <File FileName="FitnessGuru/Data/UserDetails.cs" Line="7" Column="12" />
+      <File FileName="FitnessGuru/LoginPage.xaml" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
