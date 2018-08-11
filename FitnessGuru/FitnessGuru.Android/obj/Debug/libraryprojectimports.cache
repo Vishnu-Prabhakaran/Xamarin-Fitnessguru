@@ -23,11 +23,6 @@
     <Jar>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/9/jl/bin/classes.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/32/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/33/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/34/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/35/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/36/jl/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/12/jl/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/15/jl/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/17/jl/res</ResolvedResourceDirectory>
@@ -39,20 +34,10 @@
     <ResolvedResourceDirectory>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/24/jl/res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj/Debug/lp/32/jl/assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj/Debug/lp/33/jl/assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj/Debug/lp/34/jl/assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj/Debug/lp/35/jl/assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>obj/Debug/lp/36/jl/assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj/Debug/lp/19/jl/assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/32.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/33.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/34.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/35.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/36.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/12.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/15.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/lp/17.stamp</ResolvedResourceDirectoryStamp>

@@ -20,3 +20,4 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.csprojResolveAssemblyReference.cache
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/Register.xaml.g.cs

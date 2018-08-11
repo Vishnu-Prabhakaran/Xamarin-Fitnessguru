@@ -1,9 +1,19 @@
 ﻿<Properties StartupConfiguration="{FF6FE222-BA42-4ECF-95EF-A525908EECC4}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/LoginPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/App.xaml.cs">
     <Files>
-      <File FileName="FitnessGuru/LoginPage.xaml.cs" Line="46" Column="50" />
+      <File FileName="FitnessGuru/LoginPage.xaml.cs" Line="15" Column="20" />
       <File FileName="FitnessGuru/Data/UserDetails.cs" Line="7" Column="12" />
       <File FileName="FitnessGuru/LoginPage.xaml" Line="22" Column="1" />
+      <File FileName="../../../../../Library/Frameworks/Xamarin.Android.framework/Versions/8.3.3-2/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1193" Column="2" />
+      <File FileName="FitnessGuru/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="FitnessGuru/Model/User.cs" Line="1" Column="1" />
+      <File FileName="FitnessGuru/Model/MediaModel.cs" Line="1" Column="1" />
+      <File FileName="FitnessGuru/Register.xaml" Line="20" Column="1" />
+      <File FileName="FitnessGuru/Register.xaml.cs" Line="33" Column="10" />
+      <File FileName="FitnessGuru/ViewModels/RegisterViewModel.cs" Line="11" Column="14" />
+      <File FileName="FitnessGuru/Services/ApiServices.cs" Line="7" Column="31" />
+      <File FileName="FitnessGuru/Model/RegisterBindingModel.cs" Line="11" Column="2" />
+      <File FileName="FitnessGuru/App.xaml.cs" Line="14" Column="55" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

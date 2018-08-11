@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.Register"
+             xmlns:viewModels="clr-namespace:FitnessGuru.ViewModels;assembly=FitnessGuru">
+     <ContentPage.BindingContext>
+        <viewModels:RegisterViewModel />
+    </ContentPage.BindingContext>
+    <StackLayout VerticalOptions="StartAndExpand">
+        <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+            <Image x:Name="Login_Icon" Source="home.png" Margin="0,80,0,0" />
+        </StackLayout>
+        <Entry Text="{Binding Email}" Placeholder="email" />
+        <Entry Text="{Binding Password}" Placeholder="password" IsPassword="true" />
+        <Entry Text="{Binding ConfirmPassword}" Placeholder="Confirm password" IsPassword="true" />
+        <Button Command="{Binding RegisterCommand}" Text="Register" />
+
+        <Button Text="Login" BackgroundColor="Silver"  Clicked="BtnRLogin"/>
+        <Button Text="Skip"  Clicked="BtnSkip"/>
+    </StackLayout>
+</ContentPage>

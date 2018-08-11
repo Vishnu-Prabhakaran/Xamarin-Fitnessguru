@@ -13,7 +13,6 @@ namespace FitnessGuru
         {
             InitializeComponent();
             Init();
-            UserLogin();
         }
 		private async void BtnReset(object sender, System.EventArgs e)
         {
@@ -28,25 +27,6 @@ namespace FitnessGuru
 
             Entry_Username.Completed += (s, e) => Entry_Password.Focus();
             Entry_Password.Completed += (s, e) => Btn_Login.Focus();
-        }
-
-
-        public async void UserLogin()
-        {
-
-            //HttpClient client = new HttpClient();
-            var client = new System.Net.Http.HttpClient();
-            var response = await client.GetAsync("http://www.mocky.io/v2/5b6d9499330000a827a36e7e");
-            string JsonData = await response.Content.ReadAsStringAsync();
-            UserDetails User = new UserDetails();
-
-
-            if (JsonData != "null")
-            {
-                User = JsonConvert.DeserializeObject<UserDetails>(JsonData);
-                Lbl_Login.Text = User.ToString();
-            }
-
         }
 
 

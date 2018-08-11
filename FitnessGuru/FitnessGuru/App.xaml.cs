@@ -11,7 +11,7 @@ namespace FitnessGuru
         {
             InitializeComponent();
             //MainPage = new MainPage();
-            MainPage = new NavigationPage(new LoginPage());
+            MainPage = new NavigationPage(new Register());
 
 
         }

@@ -8,12 +8,6 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/Plugin.CurrentActivity.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/Plugin.Media.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/Plugin.Permissions.dll
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/SQLite-net.dll
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/SQLitePCLRaw.batteries_sqlcipher.dll
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/SQLitePCLRaw.batteries_v2.dll
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/SQLitePCLRaw.core.dll
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/SQLitePCLRaw.lib.sqlcipher.dll
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/SQLitePCLRaw.provider.sqlcipher.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Core.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Xml.dll
@@ -73,6 +67,4 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Runtime.InteropServices.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Runtime.Extensions.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Reflection.Extensions.dll
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Threading.Tasks.dll
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/System.Globalization.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/android/assets/Mono.Security.dll
