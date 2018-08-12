@@ -18,13 +18,21 @@ namespace FitnessGuru
         {
             await Navigation.PushAsync(new ResetPage());
         }
+        private async void BtnReg(object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new Register());
+        }
+        private async void BtnSkipp(object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new MainPage());
+        }
         void Init()
         {
             BackgroundColor = Constants.BackgroundColor;
-            Lbl_Login.TextColor = Constants.MainTextColor;
+            Lbl_Login.TextColor = Constants.GreenTextColor;
             ActivitySpinner.IsVisible = false;
             Login_Icon.HeightRequest = Constants.LoginIconHeight;
-
+            Btn_Reg.BackgroundColor = Color.Green;
             Entry_Username.Completed += (s, e) => Entry_Password.Focus();
             Entry_Password.Completed += (s, e) => Btn_Login.Focus();
         }

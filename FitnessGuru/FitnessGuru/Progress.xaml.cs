@@ -45,6 +45,14 @@ namespace FitnessGuru
         {
             InitializeComponent();
 
+            Init();
+        }
+
+        void Init()
+        {
+            BackgroundColor = Constants.BackgroundColor;
+            lblProgress.TextColor = Constants.GreenTextColor;
+            photoBtn.TextColor = Color.White;
 
         }
 

@@ -17,7 +17,6 @@ namespace FitnessGuru
 
         //public bool IsDone { get; set; }
 
-        //public DateTime UpdatedAt {get; set; }
     }
 
     public class WorkoutLists

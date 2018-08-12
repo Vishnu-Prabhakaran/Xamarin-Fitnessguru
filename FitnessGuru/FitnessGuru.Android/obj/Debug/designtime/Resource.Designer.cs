@@ -52,23 +52,26 @@ namespace FitnessGuru.Droid
 		public partial class Drawable
 		{
 			
-			// aapt resource value: 0x7F010002
-			public const int account = 2130771970;
-			
 			// aapt resource value: 0x7F010003
-			public const int home = 2130771971;
+			public const int account = 2130771971;
+			
+			// aapt resource value: 0x7F010002
+			public const int FitnessGuruLogo = 2130771970;
 			
 			// aapt resource value: 0x7F010004
-			public const int landing = 2130771972;
+			public const int home = 2130771972;
 			
 			// aapt resource value: 0x7F010005
-			public const int library = 2130771973;
+			public const int landing = 2130771973;
 			
 			// aapt resource value: 0x7F010006
-			public const int menu = 2130771974;
+			public const int library = 2130771974;
 			
 			// aapt resource value: 0x7F010007
-			public const int workout = 2130771975;
+			public const int menu = 2130771975;
+			
+			// aapt resource value: 0x7F010008
+			public const int workout = 2130771976;
 			
 			static Drawable()
 			{

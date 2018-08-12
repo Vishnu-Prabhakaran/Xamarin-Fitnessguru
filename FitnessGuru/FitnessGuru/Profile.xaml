@@ -4,7 +4,7 @@
         <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
 
              <Image Source="https://avatarfiles.alphacoders.com/654/65439.jpg" Aspect="AspectFill" HeightRequest="200"  VerticalOptions="Center" />
-                <Label Text="Vishnu Prabhakaran:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"  Font="20" TextColor="Green" />
+                <Label Text="Vishnu Prabhakaran" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"  Font="20" TextColor="Green" />
                 <Label Text="Your Workout routine" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"   TextColor="White" Font="15" />
                 
             <Grid>
@@ -22,13 +22,13 @@
                     <ColumnDefinition Width="*" />
                     <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
-               <Label Text="Monday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="0" TextColor="Yellow" />
-                <Label Text="Tuesday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="1" Grid.Column="0" TextColor="Yellow" />
-                <Label Text="Wednesday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="2" Grid.Column="0" TextColor="Yellow" />
-                <Label Text="Thursday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="3" Grid.Column="0" TextColor="Yellow" />
-                <Label Text="Friday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="4" Grid.Column="0" TextColor="Yellow" />
-                <Label Text="Saturday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="5" Grid.Column="0" TextColor="Yellow" />
-                <Label Text="Sunday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="6" Grid.Column="0" TextColor="Yellow" />
+               <Label Text="Monday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="0" TextColor="Yellow" /> <Label Text="Enabled"  Grid.Row="0" Grid.Column="1" TextColor="Green"/>
+                <Label Text="Tuesday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="1" Grid.Column="0" TextColor="Yellow" /><Label Text="Enabled"  Grid.Row="1" Grid.Column="1" TextColor="Green"/>
+                <Label Text="Wednesday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="2" Grid.Column="0" TextColor="Yellow" /><Label Text="Enabled"  Grid.Row="2" Grid.Column="1" TextColor="Green"/>
+                <Label Text="Thursday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="3" Grid.Column="0" TextColor="Yellow" /><Label Text="Enabled"  Grid.Row="3" Grid.Column="1" TextColor="Green"/>
+                <Label Text="Friday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="4" Grid.Column="0" TextColor="Yellow" /><Label Text="Enabled"  Grid.Row="4" Grid.Column="1" TextColor="Green"/>
+                <Label Text="Saturday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="5" Grid.Column="0" TextColor="Yellow" /><Label Text="Enabled"  Grid.Row="5" Grid.Column="1" TextColor="Green"/>
+                <Label Text="Sunday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="6" Grid.Column="0" TextColor="Yellow" /><Label Text="Enabled"  Grid.Row="6" Grid.Column="1" TextColor="Green"/>
             </Grid>
         </StackLayout>
     </ContentPage.Content>

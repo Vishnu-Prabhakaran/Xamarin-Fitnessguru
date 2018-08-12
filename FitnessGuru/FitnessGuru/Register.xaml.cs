@@ -29,7 +29,7 @@ namespace FitnessGuru
         {
             BackgroundColor = Constants.BackgroundColor;
             Login_Icon.HeightRequest = Constants.LoginIconHeight;
-
+            lblReg.TextColor = Constants.GreenTextColor;
         }
     }
 }

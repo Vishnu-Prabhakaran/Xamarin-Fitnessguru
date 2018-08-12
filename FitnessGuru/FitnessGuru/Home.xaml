@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.Home" Title="Home" Icon="home.png" BackgroundColor="#333333">
     <StackLayout HorizontalOptions="Center" VerticalOptions="Center" >
-       <Grid >
-        <Grid.RowDefinitions>
-               <RowDefinition Height="370" />
-                <RowDefinition Height="*" />
-                <RowDefinition Height="*" />
+       <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+                <Image x:Name="Login_Icon" Source="FitnessGuruLogo.png" Margin="1"/>
+            </StackLayout>
+        <StackLayout>
+         <Label Margin="5" Text="Quote of the day" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" TextColor="Yellow" />
+        
+         <Label Margin="5" Text="Eat Healthy and Workout harder" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" TextColor="White" Font="30" FontAttributes="Italic" />
 
-
-        </Grid.RowDefinitions>
-        <Grid.ColumnDefinitions>
-                 <ColumnDefinition Width="auto"/>
-                 <ColumnDefinition Width="*"/>
-          </Grid.ColumnDefinitions>
-
-         <Image Source="landing.jpg" Aspect="AspectFill" Grid.Row="0" Grid.Column="0" VerticalOptions="Start" />
-         <Label Margin="5" Text="Quote of the day" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" Grid.Row="1" Grid.Column="0" TextColor="Yellow" />
-                  <Label Margin="5" Text="Eat Healthy and Workout harder" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" Grid.Row="2" Grid.Column="0" TextColor="White" Font="30" FontAttributes="Italic" />
-
-        </Grid>
+        </StackLayout>
         </StackLayout>
 </ContentPage>

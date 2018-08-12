@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.WDaysPage" BackgroundColor="#333333">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FitnessGuru.WDaysPage">
     <ContentPage.Content>
                 <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
 
-                <Label Text="Select your workout availability" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"   TextColor="White" Font="30" />
+                <Label x:Name="lblAvailability" Text="Select your workout availability" Margin="10" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" Font="30" />
                 
             <Grid>
                 <Grid.RowDefinitions>
@@ -19,14 +19,15 @@
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*" />
                     <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
-               <Label Text="Monday:" x:Name="sv" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="0" TextColor="Yellow" /> <Switch  Grid.Row="0" Grid.Column="1"  Toggled="Handle_Toggled" />
-                <Label Text="Tuesday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="1" Grid.Column="0" TextColor="Yellow" />
-                <Label Text="Wednesday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="2" Grid.Column="0" TextColor="Yellow" />
-                <Label Text="Thursday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="3" Grid.Column="0" TextColor="Yellow" />
-                <Label Text="Friday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="4" Grid.Column="0" TextColor="Yellow" />
-                <Label Text="Saturday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="5" Grid.Column="0" TextColor="Yellow" />
-                <Label Text="Sunday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="6" Grid.Column="0" TextColor="Yellow" />
+               <Label Text="Monday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="0" TextColor="Yellow" /> <Label x:Name="Swh_Mo" Text="Disabled" Grid.Row="0" Grid.Column="1"/><Switch  Grid.Row="0" Grid.Column="2"  Toggled="Tgld_Mon" />
+                <Label Text="Tuesday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="1" Grid.Column="0" TextColor="Yellow" /> <Label x:Name="Swh_Tu" Text="Disabled" Grid.Row="1" Grid.Column="1"/><Switch  Grid.Row="1" Grid.Column="2"  Toggled="Tgld_Tue" />
+                <Label Text="Wednesday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="2" Grid.Column="0" TextColor="Yellow" /> <Label x:Name="Swh_We" Text="Disabled" Grid.Row="2" Grid.Column="1"/><Switch  Grid.Row="2" Grid.Column="2"  Toggled="Tgld_Wed" />
+                <Label Text="Thursday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="3" Grid.Column="0" TextColor="Yellow" /> <Label x:Name="Swh_Th" Text="Disabled" Grid.Row="3" Grid.Column="1"/><Switch  Grid.Row="3" Grid.Column="2"  Toggled="Tgld_Thu" />
+                <Label Text="Friday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="4" Grid.Column="0" TextColor="Yellow" /> <Label x:Name="Swh_Fr" Text="Disabled" Grid.Row="4" Grid.Column="1"/><Switch  Grid.Row="4" Grid.Column="2"  Toggled="Tgld_Fri" />
+                <Label Text="Saturday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="5" Grid.Column="0" TextColor="Yellow" /> <Label x:Name="Swh_Sa" Text="Disabled" Grid.Row="5" Grid.Column="1"/><Switch  Grid.Row="5" Grid.Column="2"  Toggled="Tgld_Sat" />
+                <Label Text="Sunday:" Margin="5" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Grid.Row="6" Grid.Column="0" TextColor="Yellow" /> <Label x:Name="Swh_Su" Text="Disabled" Grid.Row="6" Grid.Column="1"/><Switch  Grid.Row="6" Grid.Column="2"  Toggled="Tgld_Sun" />
             </Grid>
             </StackLayout>
     </ContentPage.Content>

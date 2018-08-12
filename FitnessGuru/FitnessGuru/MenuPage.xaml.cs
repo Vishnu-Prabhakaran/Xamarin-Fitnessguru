@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using FitnessGuru.Model;
 using Xamarin.Forms;
 
 namespace FitnessGuru
@@ -12,8 +12,14 @@ namespace FitnessGuru
         public MenuPage()
         {
             InitializeComponent();
+            Init();
         }
+        void Init()
+        {
+            BackgroundColor = Constants.GreenTextColor;
+            lblMenu.TextColor = Color.White;
 
+        }
 		private async void BtnLogin(object sender, System.EventArgs e)
         {
             await Navigation.PushAsync(new LoginPage());
@@ -33,6 +39,10 @@ namespace FitnessGuru
 		private async void BtnWDays(object sender, System.EventArgs e)
         {
             await Navigation.PushAsync(new WDaysPage());
+        }
+        private async void BtnLogout(object sender, System.EventArgs e)
+        {
+            await Navigation.PushAsync(new LoginPage());
         }
 
     }

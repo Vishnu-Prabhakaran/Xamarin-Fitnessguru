@@ -5,26 +5,29 @@ using Xamarin.Forms;
 using Newtonsoft.Json;
 using static System.Console;
 using System.Diagnostics;
+using FitnessGuru.Model;
 
 namespace FitnessGuru
 {
     public partial class Workout : ContentPage
     {
-
-        //switch
-        void Handle_Toggled(object sender, Xamarin.Forms.ToggledEventArgs e)
-        {
-            throw new NotImplementedException();
-        }
-
-
+        public const string V = "Completed";
+        public event EventHandler<SelectedItemChangedEventArgs> SelectedOrToggled;
+      
         //Workout List view
         public Workout()
         {
             InitializeComponent();
             GetData();
+            Init();
         }
+      
+        void Init()
+        {
+            BackgroundColor = Constants.BackgroundColor;
+            lbnlRoutine.TextColor = Constants.GreenTextColor;
 
+        }
         public async void GetData()
         {
 
@@ -42,7 +45,24 @@ namespace FitnessGuru
             }
             WorkoutListView.ItemsSource = ObjWorkoutList.workouts;
         }
+
+
+
+        void Handle_Toggled(object sender, Xamarin.Forms.ToggledEventArgs e)
+        {
+            var view = sender as BindableObject;
+            SelectedOrToggled?.Invoke(this, new
+            SelectedItemChangedEventArgs(view.BindingContext));
+        }
+
+        //XAML usage
+
+
+       
+
     }
+
+
 
 }
 

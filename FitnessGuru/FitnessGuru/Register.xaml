@@ -6,14 +6,15 @@
     </ContentPage.BindingContext>
     <StackLayout VerticalOptions="StartAndExpand">
         <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
-            <Image x:Name="Login_Icon" Source="home.png" Margin="0,80,0,0" />
+            <Image x:Name="Login_Icon" Source="FitnessGuruLogo.png" Margin="0,20,0,0" />
+            <Label Text="Register!" x:Name="lblReg" Margin="5" Font="30" HorizontalOptions="Center" VerticalOptions="Center"/>
         </StackLayout>
-        <Entry Text="{Binding Email}" Placeholder="email" />
-        <Entry Text="{Binding Password}" Placeholder="password" IsPassword="true" />
-        <Entry Text="{Binding ConfirmPassword}" Placeholder="Confirm password" IsPassword="true" />
-        <Button Command="{Binding RegisterCommand}" Text="Register" />
+        <Entry Text="{Binding Email}" Placeholder="email" Margin="5"  TextColor="Green" />
+        <Entry Text="{Binding Password}" Placeholder="password" Margin="5"  IsPassword="true" TextColor="Green" />
+        <Entry Text="{Binding ConfirmPassword}" Margin="5"  Placeholder="Confirm password" IsPassword="true" />
+        <Button Command="{Binding RegisterCommand}" Margin="5" Text="Register" BackgroundColor="White"/>
 
-        <Button Text="Login" BackgroundColor="Silver"  Clicked="BtnRLogin"/>
-        <Button Text="Skip"  Clicked="BtnSkip"/>
+        <Button Text="Login" BackgroundColor="Green" Margin="5" Clicked="BtnRLogin"/>
+        <Button Text="Skip"  Clicked="BtnSkip" Margin="5" BackgroundColor="White"/>
     </StackLayout>
 </ContentPage>
