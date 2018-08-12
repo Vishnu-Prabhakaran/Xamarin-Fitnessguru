@@ -7,10 +7,10 @@
             <Picker x:Name="picker" Title="Please choose a choice of your daily intake">
                 <Picker.ItemsSource>
                     <x:Array Type="{x:Type x:String}">
-                        <x:String>Vegitarian</x:String>
-                        <x:String>non Vegitarian </x:String>
+                        <x:String>Vegetarian</x:String>
+                        <x:String>Non Vegetarian</x:String>
                         <x:String>Vegan</x:String>
-                        <x:String>Eggitarian</x:String>
+                        <x:String>Eggetarian</x:String>
                         <x:String>Protien And Suppliments</x:String>
                         <x:String>No Restrictions</x:String>
                     </x:Array>

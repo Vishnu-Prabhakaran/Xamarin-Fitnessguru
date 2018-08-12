@@ -1,7 +1,11 @@
 ﻿<Properties StartupConfiguration="{FF6FE222-BA42-4ECF-95EF-A525908EECC4}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/MenuPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/EHabitsPage.xaml">
     <Files>
       <File FileName="FitnessGuru/MenuPage.xaml.cs" Line="46" Column="10" />
+      <File FileName="FitnessGuru/MainPage.xaml" Line="11" Column="14" />
+      <File FileName="FitnessGuru/App.xaml.cs" Line="15" Column="1" />
+      <File FileName="FitnessGuru/Workout.xaml.cs" Line="23" Column="49" />
+      <File FileName="FitnessGuru/EHabitsPage.xaml" Line="13" Column="51" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
