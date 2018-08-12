@@ -1,13 +1,17 @@
 ﻿<Properties StartupConfiguration="{FF6FE222-BA42-4ECF-95EF-A525908EECC4}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/EHabitsPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FitnessGuru/MenuPage.xaml">
     <Files>
       <File FileName="FitnessGuru/MenuPage.xaml.cs" Line="46" Column="10" />
       <File FileName="FitnessGuru/MainPage.xaml" Line="11" Column="14" />
       <File FileName="FitnessGuru/App.xaml.cs" Line="15" Column="1" />
       <File FileName="FitnessGuru/Workout.xaml.cs" Line="23" Column="49" />
-      <File FileName="FitnessGuru/EHabitsPage.xaml" Line="13" Column="51" />
+      <File FileName="FitnessGuru/EHabitsPage.xaml" Line="14" Column="50" />
+      <File FileName="FitnessGuru/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="../../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/11.12.0.4/lib/msbuild/iOS/Xamarin.iOS.Common.targets" Line="1324" Column="3" />
+      <File FileName="FitnessGuru/MenuPage.xaml" Line="17" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FitnessGuru.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

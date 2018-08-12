@@ -1,0 +1,38 @@
+FitnessGuru Licence
+
+All images on the project is free and open source.
+Modules are created by Vishnu Prabhakaran
+Tutorials are from Youtube tutorials, Stack overflow, Xamarin forums and Deakin.
+
+
+Icons  by Google Material design Icons
+	--- https://material.io/tools/icons/?search=h&icon=menu&style=baseline
+
+Logo has been designed by myself using photoshop.
+
+Some of the additional tutorials
+	--- https://www.youtube.com/watch?v=93ZU6j59wL4
+	--- https://www.youtube.com/watch?v=t0v4srA4NhA
+	--- https://www.youtube.com/watch?v=Nkccb9ODr_A
+	--- https://www.youtube.com/watch?v=T4FI1LgCqn0
+
+	Camera Module
+	---	https://www.youtube.com/watch?v=GuzyVor2OvU
+
+Git hub Codes and plugins
+	---	https://github.com/HoussemDellai/CheapIdeas
+	--- https://github.com/jamesmontemagno/MediaPlugin
+	--- https://github.com/jamesmontemagno/CurrentActivityPlugin/blob/master/README.md
+
+Api Links
+	--- https://www.mocky.io/
+ 	--- https://www.mockable.io/a/#/space/demo7712681
+
+Workout Articles
+ 	--- https://www.aworkoutroutine.com/chest-workout/
+ 	--- https://www.bodybuilding.com/content/bodybuildingcoms-10-highest-rated-biceps-exercises.html
+	--- https://www.bodybuilding.com/content/5-back-workouts-for-mass-a-beginners-guide.html
+
+================================================================================
+Team 11
+================================================================================

@@ -33,10 +33,10 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/res/drawable/landing.jpg
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/res/drawable/menu.png
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/res/xml/file_paths.xml
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/res/drawable/fitnessgurulogo.png
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/R.cs.flag
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/R.txt
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/uploadflags.txt
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/obj/Debug/res/drawable/fitnessgurulogo.png
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/Mono.Android.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru.Android/bin/Debug/Xamarin.Forms.Xaml.pdb

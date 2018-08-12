@@ -10,6 +10,7 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/MenuPage.xaml.g.cs
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/Profile.xaml.g.cs
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/Progress.xaml.g.cs
+/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/Register.xaml.g.cs
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/ResetPage.xaml.g.cs
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/WDaysPage.xaml.g.cs
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/Workout.xaml.g.cs
@@ -19,5 +20,3 @@
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.dll
 /Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.pdb
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/FitnessGuru.csprojResolveAssemblyReference.cache
-/Users/wish/Desktop/FitnessGuru/FitnessGuru/FitnessGuru/obj/Debug/netstandard2.0/Register.xaml.g.cs
