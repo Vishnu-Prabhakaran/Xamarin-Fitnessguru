@@ -20,6 +20,7 @@ namespace FitnessGuru
             InitializeComponent();
             GetData();
             Init();
+            BindingContext = new  WorkoutDays();
         }
       
         void Init()
@@ -28,6 +29,9 @@ namespace FitnessGuru
             lbnlRoutine.TextColor = Constants.GreenTextColor;
 
         }
+
+       
+
         public async void GetData()
         {
 
