@@ -15,6 +15,7 @@ Version History
     Progress added
 
 1.0.2
+
     Menu buttons added
     Api created for workouts
     List View and api added
@@ -22,17 +23,20 @@ Version History
     icons added for tabbed pages
 
 1.0.3
+
     Bottom Tab view fixed for Android
     Camera Libraries added - not working
     Additional pages added,
     New classed added for additional pages
 
 1.0.4
-     Login Page Added
-     Additional permissions set for camera module
-     Image list for taken images on progress pages
-     Added Switches and pickers on individual pages
-     Platform specific permissions has been set
+    
+    Login Page Added
+    Additional permissions set for camera module
+    Image list for taken images on progress pages
+    Added Switches and pickers on individual pages
+    Platform specific permissions has been set
+    
 1.0.5
 
     Register Page added
@@ -41,12 +45,14 @@ Version History
     cleaned up un necessary pages and codes   
 
 1.0.6(Release)
+
     Reworked colour and theme for the App
     Logo created and added
     Constant colour class files have been added and linked
     Added more work outs added to the api
 
 1.0.7
+
     ** Picker Days need to be fixed
     API need to classified by weekdays
     Switches need to connected
